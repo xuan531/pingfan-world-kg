@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+.env
+*.pt
+*.pth
+src/output/models/
+.DS_Store

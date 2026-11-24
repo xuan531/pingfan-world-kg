@@ -1,0 +1,1185 @@
+{
+  "nodes": [
+    {
+      "id": "E01",
+      "label": "孙少平",
+      "type": "PERSON",
+      "aliases": [
+        "少平"
+      ],
+      "description": "主人公，农民子弟，高中学生→教师→建筑工人→煤矿工人",
+      "frequency": 12,
+      "sections": [
+        "第一部",
+        "第二部概要",
+        "第三部"
+      ]
+    },
+    {
+      "id": "E02",
+      "label": "孙少安",
+      "type": "PERSON",
+      "aliases": [
+        "少安"
+      ],
+      "description": "孙少平之兄，责任制先行者，建窑烧砖成冒尖户",
+      "frequency": 10,
+      "sections": [
+        "第一部",
+        "第二部概要",
+        "第三部"
+      ]
+    },
+    {
+      "id": "E03",
+      "label": "田润叶",
+      "type": "PERSON",
+      "aliases": [
+        "润叶"
+      ],
+      "description": "田福堂之女，县城教师，与少安青梅竹马，后嫁李向前",
+      "frequency": 9,
+      "sections": [
+        "第一部",
+        "第二部概要",
+        "第三部"
+      ]
+    },
+    {
+      "id": "E04",
+      "label": "田晓霞",
+      "type": "PERSON",
+      "aliases": [
+        "晓霞"
+      ],
+      "description": "田福军之女，省报记者，抗洪采访牺牲",
+      "frequency": 7,
+      "sections": [
+        "第一部",
+        "第二部概要",
+        "第三部"
+      ]
+    },
+    {
+      "id": "E05",
+      "label": "田福堂",
+      "type": "PERSON",
+      "aliases": [
+        "村支书",
+        "田支书"
+      ],
+      "description": "村支书，反对责任制与少安润叶婚事，组织抢水炸山",
+      "frequency": 8,
+      "sections": [
+        "第一部",
+        "第二部概要"
+      ]
+    },
+    {
+      "id": "E06",
+      "label": "郝红梅",
+      "type": "PERSON",
+      "aliases": [
+        "红梅"
+      ],
+      "description": "地主家庭出身，与少平有情愫，后嫁顾养民、再嫁田润生",
+      "frequency": 5,
+      "sections": [
+        "第一部",
+        "第二部概要",
+        "第三部"
+      ]
+    },
+    {
+      "id": "E07",
+      "label": "贺秀莲",
+      "type": "PERSON",
+      "aliases": [
+        "秀莲"
+      ],
+      "description": "勤劳善良的山西姑娘，孙少安之妻，确诊肺癌",
+      "frequency": 4,
+      "sections": [
+        "第一部",
+        "第二部概要",
+        "第三部"
+      ]
+    },
+    {
+      "id": "E08",
+      "label": "田润生",
+      "type": "PERSON",
+      "aliases": [
+        "润生"
+      ],
+      "description": "田福堂之子、润叶之弟，与郝红梅结为夫妻",
+      "frequency": 5,
+      "sections": [
+        "第二部概要",
+        "第三部"
+      ]
+    },
+    {
+      "id": "E09",
+      "label": "李向前",
+      "type": "PERSON",
+      "aliases": [
+        "向前"
+      ],
+      "description": "钟情润叶，酒后开车致残",
+      "frequency": 3,
+      "sections": [
+        "第一部",
+        "第二部概要"
+      ]
+    },
+    {
+      "id": "E10",
+      "label": "田福军",
+      "type": "PERSON",
+      "aliases": [
+        "田副主任"
+      ],
+      "description": "县革委副主任，田晓霞之父",
+      "frequency": 3,
+      "sections": [
+        "第一部",
+        "第三部"
+      ]
+    },
+    {
+      "id": "E11",
+      "label": "顾养民",
+      "type": "PERSON",
+      "aliases": [
+        "养民"
+      ],
+      "description": "家境优越，与郝红梅恋爱",
+      "frequency": 2,
+      "sections": [
+        "第一部"
+      ]
+    },
+    {
+      "id": "E12",
+      "label": "侯玉英",
+      "type": "PERSON",
+      "aliases": [
+        "玉英"
+      ],
+      "description": "孙少平同班同学，当众说破少平与红梅关系",
+      "frequency": 1,
+      "sections": [
+        "第一部"
+      ]
+    },
+    {
+      "id": "E13",
+      "label": "金波",
+      "type": "PERSON",
+      "aliases": [],
+      "description": "孙少平少时玩伴",
+      "frequency": 1,
+      "sections": [
+        "第三部"
+      ]
+    },
+    {
+      "id": "E14",
+      "label": "金波之妹",
+      "type": "PERSON",
+      "aliases": [
+        "金波妹妹"
+      ],
+      "description": "向少平表白被婉拒，原文未具名",
+      "frequency": 1,
+      "sections": [
+        "第三部"
+      ]
+    },
+    {
+      "id": "E15",
+      "label": "县长",
+      "type": "PERSON",
+      "aliases": [],
+      "description": "帮助少安砖窑再度奋起（泛称）",
+      "frequency": 1,
+      "sections": [
+        "第三部"
+      ]
+    },
+    {
+      "id": "E16",
+      "label": "原西县",
+      "type": "LOCATION",
+      "aliases": [
+        "原西"
+      ],
+      "description": "故事发生地",
+      "frequency": 2,
+      "sections": [
+        "第一部"
+      ]
+    },
+    {
+      "id": "E17",
+      "label": "原西县高中",
+      "type": "ORGANIZATION",
+      "aliases": [
+        "高中",
+        "县高中"
+      ],
+      "description": "孙少平就读学校",
+      "frequency": 1,
+      "sections": [
+        "第一部"
+      ]
+    },
+    {
+      "id": "E18",
+      "label": "山西",
+      "type": "LOCATION",
+      "aliases": [],
+      "description": "少安相亲娶秀莲之地",
+      "frequency": 1,
+      "sections": [
+        "第一部"
+      ]
+    },
+    {
+      "id": "E19",
+      "label": "县城",
+      "type": "LOCATION",
+      "aliases": [],
+      "description": "田润叶任教之地",
+      "frequency": 1,
+      "sections": [
+        "第一部"
+      ]
+    },
+    {
+      "id": "E20",
+      "label": "上游",
+      "type": "LOCATION",
+      "aliases": [],
+      "description": "抢水冲突对象",
+      "frequency": 1,
+      "sections": [
+        "第一部"
+      ]
+    },
+    {
+      "id": "E21",
+      "label": "河坝",
+      "type": "LOCATION",
+      "aliases": [],
+      "description": "田福堂组织偷挖之处",
+      "frequency": 1,
+      "sections": [
+        "第一部"
+      ]
+    },
+    {
+      "id": "E22",
+      "label": "煤矿",
+      "type": "LOCATION",
+      "aliases": [
+        "矿山"
+      ],
+      "description": "孙少平后期工作地",
+      "frequency": 4,
+      "sections": [
+        "第二部概要",
+        "第三部"
+      ]
+    },
+    {
+      "id": "E23",
+      "label": "异乡",
+      "type": "LOCATION",
+      "aliases": [],
+      "description": "润生与红梅邂逅之地",
+      "frequency": 1,
+      "sections": [
+        "第二部概要"
+      ]
+    },
+    {
+      "id": "E24",
+      "label": "县革委",
+      "type": "ORGANIZATION",
+      "aliases": [
+        "县革命委员会"
+      ],
+      "description": "田福军任职机构",
+      "frequency": 1,
+      "sections": [
+        "第一部"
+      ]
+    },
+    {
+      "id": "E25",
+      "label": "生产队",
+      "type": "ORGANIZATION",
+      "aliases": [],
+      "description": "少安领导实行责任制的基层组织",
+      "frequency": 2,
+      "sections": [
+        "第二部概要"
+      ]
+    },
+    {
+      "id": "E26",
+      "label": "公社",
+      "type": "ORGANIZATION",
+      "aliases": [],
+      "description": "少安成为冒尖户所在行政单位",
+      "frequency": 1,
+      "sections": [
+        "第二部概要"
+      ]
+    },
+    {
+      "id": "E27",
+      "label": "支部",
+      "type": "ORGANIZATION",
+      "aliases": [
+        "支部会"
+      ],
+      "description": "田福堂召开会议抵制责任制之处",
+      "frequency": 1,
+      "sections": [
+        "第二部概要"
+      ]
+    },
+    {
+      "id": "E28",
+      "label": "省报",
+      "type": "ORGANIZATION",
+      "aliases": [],
+      "description": "田晓霞任记者单位",
+      "frequency": 1,
+      "sections": [
+        "第二部概要"
+      ]
+    },
+    {
+      "id": "E29",
+      "label": "团地委",
+      "type": "ORGANIZATION",
+      "aliases": [],
+      "description": "田润叶远离丈夫后工作单位",
+      "frequency": 1,
+      "sections": [
+        "第二部概要"
+      ]
+    },
+    {
+      "id": "E30",
+      "label": "小学",
+      "type": "ORGANIZATION",
+      "aliases": [
+        "扩建的小学"
+      ],
+      "description": "少安出资一万五千元扩建的学校",
+      "frequency": 2,
+      "sections": [
+        "第三部"
+      ]
+    },
+    {
+      "id": "E31",
+      "label": "1975年初",
+      "type": "TIME",
+      "aliases": [],
+      "description": "第一部故事起点",
+      "frequency": 1,
+      "sections": [
+        "第一部"
+      ]
+    },
+    {
+      "id": "E32",
+      "label": "1979年春",
+      "type": "TIME",
+      "aliases": [],
+      "description": "第二部故事起点",
+      "frequency": 1,
+      "sections": [
+        "第二部概要"
+      ]
+    },
+    {
+      "id": "E33",
+      "label": "1982年",
+      "type": "TIME",
+      "aliases": [],
+      "description": "第三部故事起点",
+      "frequency": 1,
+      "sections": [
+        "第三部"
+      ]
+    },
+    {
+      "id": "E34",
+      "label": "27岁",
+      "type": "TIME",
+      "aliases": [],
+      "description": "少平事故时年龄",
+      "frequency": 1,
+      "sections": [
+        "第三部"
+      ]
+    },
+    {
+      "id": "E35",
+      "label": "两年后",
+      "type": "TIME",
+      "aliases": [],
+      "description": "少平与晓霞相约再会时间",
+      "frequency": 1,
+      "sections": [
+        "第二部概要"
+      ]
+    },
+    {
+      "id": "E36",
+      "label": "责任制改革",
+      "type": "EVENT",
+      "aliases": [],
+      "description": "少安领导生产队率先实行并全村推广",
+      "frequency": 2,
+      "sections": [
+        "第二部概要"
+      ]
+    },
+    {
+      "id": "E37",
+      "label": "偷挖河坝与上游抢水",
+      "type": "EVENT",
+      "aliases": [],
+      "description": "田福堂为树威信组织，酿成人命",
+      "frequency": 1,
+      "sections": [
+        "第一部"
+      ]
+    },
+    {
+      "id": "E38",
+      "label": "炸山修田",
+      "type": "EVENT",
+      "aliases": [],
+      "description": "农业学大寨口号下的好大喜功之举",
+      "frequency": 1,
+      "sections": [
+        "第一部"
+      ]
+    },
+    {
+      "id": "E39",
+      "label": "建窑烧砖",
+      "type": "EVENT",
+      "aliases": [],
+      "description": "少安贷款建窑，成为冒尖户",
+      "frequency": 1,
+      "sections": [
+        "第二部概要"
+      ]
+    },
+    {
+      "id": "E40",
+      "label": "扩建机器制砖",
+      "type": "EVENT",
+      "aliases": [],
+      "description": "技师不懂技术致损失，后在朋友县长帮助下奋起",
+      "frequency": 1,
+      "sections": [
+        "第三部"
+      ]
+    },
+    {
+      "id": "E41",
+      "label": "抗洪采访",
+      "type": "EVENT",
+      "aliases": [],
+      "description": "田晓霞为抢救灾民牺牲",
+      "frequency": 1,
+      "sections": [
+        "第三部"
+      ]
+    },
+    {
+      "id": "E42",
+      "label": "煤矿事故",
+      "type": "EVENT",
+      "aliases": [],
+      "description": "少平为救护徒弟重伤毁容",
+      "frequency": 1,
+      "sections": [
+        "第三部"
+      ]
+    },
+    {
+      "id": "E43",
+      "label": "出资扩建小学",
+      "type": "EVENT",
+      "aliases": [],
+      "description": "秀莲在庆祝会上吐血确诊肺癌",
+      "frequency": 1,
+      "sections": [
+        "第三部"
+      ]
+    },
+    {
+      "id": "E44",
+      "label": "责任制",
+      "type": "CONCEPT",
+      "aliases": [
+        "生产责任制"
+      ],
+      "description": "十一届三中全会后农村改革制度",
+      "frequency": 3,
+      "sections": [
+        "第二部概要"
+      ]
+    },
+    {
+      "id": "E45",
+      "label": "农业学大寨",
+      "type": "CONCEPT",
+      "aliases": [],
+      "description": "时代口号，炸山修田的由头",
+      "frequency": 1,
+      "sections": [
+        "第一部"
+      ]
+    },
+    {
+      "id": "E46",
+      "label": "十一届三中全会",
+      "type": "CONCEPT",
+      "aliases": [
+        "三中全会"
+      ],
+      "description": "1978年历史会议，改革起点",
+      "frequency": 1,
+      "sections": [
+        "第二部概要"
+      ]
+    },
+    {
+      "id": "E47",
+      "label": "冒尖户",
+      "type": "CONCEPT",
+      "aliases": [],
+      "description": "公社对少安致富的称谓",
+      "frequency": 1,
+      "sections": [
+        "第二部概要"
+      ]
+    },
+    {
+      "id": "E48",
+      "label": "旱灾",
+      "type": "CONCEPT",
+      "aliases": [],
+      "description": "第一部中的自然灾害",
+      "frequency": 1,
+      "sections": [
+        "第一部"
+      ]
+    },
+    {
+      "id": "E49",
+      "label": "肺癌",
+      "type": "CONCEPT",
+      "aliases": [],
+      "description": "抽取过程中新增的实体（LLM 发现）",
+      "frequency": 1,
+      "sections": []
+    }
+  ],
+  "edges": [
+    {
+      "id": "T01",
+      "source": "E01",
+      "target": "E17",
+      "head": "孙少平",
+      "tail": "原西县高中",
+      "relation": "STUDY_AT",
+      "section": "第一部",
+      "evidence": "到原西县高中读书"
+    },
+    {
+      "id": "T02",
+      "source": "E01",
+      "target": "E06",
+      "head": "孙少平",
+      "tail": "郝红梅",
+      "relation": "CLASSMATE",
+      "section": "第一部",
+      "evidence": "处境相同的地主家庭出身的郝红梅"
+    },
+    {
+      "id": "T03",
+      "source": "E01",
+      "target": "E12",
+      "head": "孙少平",
+      "tail": "侯玉英",
+      "relation": "CLASSMATE",
+      "section": "第一部",
+      "evidence": "被同班同学侯玉英发现"
+    },
+    {
+      "id": "T04",
+      "source": "E01",
+      "target": "E06",
+      "head": "孙少平",
+      "tail": "郝红梅",
+      "relation": "LOVER",
+      "section": "第一部",
+      "evidence": "对郝红梅产生情愫"
+    },
+    {
+      "id": "T05",
+      "source": "E12",
+      "target": "E01",
+      "head": "侯玉英",
+      "tail": "孙少平",
+      "relation": "REVEAL",
+      "section": "第一部",
+      "evidence": "发现并当众说破"
+    },
+    {
+      "id": "T06",
+      "source": "E06",
+      "target": "E11",
+      "head": "郝红梅",
+      "tail": "顾养民",
+      "relation": "LOVER",
+      "section": "第一部",
+      "evidence": "郝红梅却与顾养民恋爱"
+    },
+    {
+      "id": "T07",
+      "source": "E01",
+      "target": "E04",
+      "head": "孙少平",
+      "tail": "田晓霞",
+      "relation": "FRIEND",
+      "section": "第一部",
+      "evidence": "与田晓霞建立了友情"
+    },
+    {
+      "id": "T08",
+      "source": "E10",
+      "target": "E04",
+      "head": "田福军",
+      "tail": "田晓霞",
+      "relation": "FATHER_OF",
+      "section": "第一部",
+      "evidence": "县革委副主任田福军女儿田晓霞"
+    },
+    {
+      "id": "T09",
+      "source": "E04",
+      "target": "E01",
+      "head": "田晓霞",
+      "tail": "孙少平",
+      "relation": "HELP",
+      "section": "第一部",
+      "evidence": "在晓霞帮助下关注着外面的世界"
+    },
+    {
+      "id": "T10",
+      "source": "E02",
+      "target": "E01",
+      "head": "孙少安",
+      "tail": "孙少平",
+      "relation": "SIBLING",
+      "section": "第一部",
+      "evidence": "少平的哥哥少安"
+    },
+    {
+      "id": "T11",
+      "source": "E02",
+      "target": "E03",
+      "head": "孙少安",
+      "tail": "田润叶",
+      "relation": "LOVER",
+      "section": "第一部",
+      "evidence": "与田润叶青梅竹马，互有爱慕之心"
+    },
+    {
+      "id": "T12",
+      "source": "E05",
+      "target": "E03",
+      "head": "田福堂",
+      "tail": "田润叶",
+      "relation": "FATHER_OF",
+      "section": "第一部",
+      "evidence": "村支书田福堂的女儿——县城教师田润叶"
+    },
+    {
+      "id": "T13",
+      "source": "E03",
+      "target": "E19",
+      "head": "田润叶",
+      "tail": "县城",
+      "relation": "WORK_AT",
+      "section": "第一部",
+      "evidence": "县城教师田润叶"
+    },
+    {
+      "id": "T14",
+      "source": "E05",
+      "target": "E02",
+      "head": "田福堂",
+      "tail": "孙少安",
+      "relation": "OPPOSE",
+      "section": "第一部",
+      "evidence": "少安和润叶互有爱慕之心，却遭到田福堂反对"
+    },
+    {
+      "id": "T15",
+      "source": "E05",
+      "target": "E03",
+      "head": "田福堂",
+      "tail": "田润叶",
+      "relation": "OPPOSE",
+      "section": "第一部",
+      "evidence": "遭到田福堂反对（与润叶婚事）"
+    },
+    {
+      "id": "T16",
+      "source": "E02",
+      "target": "E07",
+      "head": "孙少安",
+      "tail": "贺秀莲",
+      "relation": "SPOUSE",
+      "section": "第一部",
+      "evidence": "到山西与勤劳善良的秀莲相亲并结了婚"
+    },
+    {
+      "id": "T17",
+      "source": "E07",
+      "target": "E18",
+      "head": "贺秀莲",
+      "tail": "山西",
+      "relation": "FROM",
+      "section": "第一部",
+      "evidence": "到山西与秀莲相亲"
+    },
+    {
+      "id": "T18",
+      "source": "E03",
+      "target": "E09",
+      "head": "田润叶",
+      "tail": "李向前",
+      "relation": "SPOUSE",
+      "section": "第一部",
+      "evidence": "含泪与李向前结婚"
+    },
+    {
+      "id": "T19",
+      "source": "E05",
+      "target": "E09",
+      "head": "田福堂",
+      "tail": "李向前",
+      "relation": "INTRODUCE",
+      "section": "第一部",
+      "evidence": "父亲介绍的一直对她有爱慕之情的李向前"
+    },
+    {
+      "id": "T20",
+      "source": "E09",
+      "target": "E03",
+      "head": "李向前",
+      "tail": "田润叶",
+      "relation": "LOVER",
+      "section": "第一部",
+      "evidence": "一直对她有爱慕之情的李向前"
+    },
+    {
+      "id": "T21",
+      "source": "E05",
+      "target": "E37",
+      "head": "田福堂",
+      "tail": "偷挖河坝与上游抢水",
+      "relation": "ORGANIZE",
+      "section": "第一部",
+      "evidence": "组织偷挖河坝与上游抢水"
+    },
+    {
+      "id": "T22",
+      "source": "E05",
+      "target": "E38",
+      "head": "田福堂",
+      "tail": "炸山修田",
+      "relation": "ORGANIZE",
+      "section": "第一部",
+      "evidence": "他好大喜功炸山修田"
+    },
+    {
+      "id": "T23",
+      "source": "E45",
+      "target": "E38",
+      "head": "农业学大寨",
+      "tail": "炸山修田",
+      "relation": "MOTIVATE",
+      "section": "第一部",
+      "evidence": "为了'农业学大寨'……炸山修田"
+    },
+    {
+      "id": "T24",
+      "source": "E37",
+      "target": "E21",
+      "head": "偷挖河坝与上游抢水",
+      "tail": "河坝",
+      "relation": "LOCATED_AT",
+      "section": "第一部",
+      "evidence": "偷挖河坝与上游抢水"
+    },
+    {
+      "id": "T25",
+      "source": "E05",
+      "target": "E44",
+      "head": "田福堂",
+      "tail": "责任制",
+      "relation": "OPPOSE",
+      "section": "第二部概要",
+      "evidence": "召开支部会抵制责任制"
+    },
+    {
+      "id": "T26",
+      "source": "E05",
+      "target": "E27",
+      "head": "田福堂",
+      "tail": "支部",
+      "relation": "ORGANIZE",
+      "section": "第二部概要",
+      "evidence": "连夜召开支部会"
+    },
+    {
+      "id": "T27",
+      "source": "E02",
+      "target": "E25",
+      "head": "孙少安",
+      "tail": "生产队",
+      "relation": "LEAD",
+      "section": "第二部概要",
+      "evidence": "领导生产队率先实行"
+    },
+    {
+      "id": "T28",
+      "source": "E02",
+      "target": "E36",
+      "head": "孙少安",
+      "tail": "责任制改革",
+      "relation": "PARTICIPATE_IN",
+      "section": "第二部概要",
+      "evidence": "率先实行，接着在全村推广了责任制"
+    },
+    {
+      "id": "T29",
+      "source": "E02",
+      "target": "E39",
+      "head": "孙少安",
+      "tail": "建窑烧砖",
+      "relation": "PARTICIPATE_IN",
+      "section": "第二部概要",
+      "evidence": "用赚的钱建窑烧砖"
+    },
+    {
+      "id": "T30",
+      "source": "E02",
+      "target": "E47",
+      "head": "孙少安",
+      "tail": "冒尖户",
+      "relation": "ACHIEVE",
+      "section": "第二部概要",
+      "evidence": "成了公社的'冒尖户'"
+    },
+    {
+      "id": "T31",
+      "source": "E01",
+      "target": "E22",
+      "head": "孙少平",
+      "tail": "煤矿",
+      "relation": "WORK_AT",
+      "section": "第二部概要",
+      "evidence": "获得了当煤矿工人的好机遇"
+    },
+    {
+      "id": "T32",
+      "source": "E04",
+      "target": "E28",
+      "head": "田晓霞",
+      "tail": "省报",
+      "relation": "WORK_AT",
+      "section": "第二部概要",
+      "evidence": "从师专毕业后到省报当了记者"
+    },
+    {
+      "id": "T33",
+      "source": "E01",
+      "target": "E04",
+      "head": "孙少平",
+      "tail": "田晓霞",
+      "relation": "PROMISE",
+      "section": "第二部概要",
+      "evidence": "他们相约两年后再相会"
+    },
+    {
+      "id": "T34",
+      "source": "E03",
+      "target": "E29",
+      "head": "田润叶",
+      "tail": "团地委",
+      "relation": "WORK_AT",
+      "section": "第二部概要",
+      "evidence": "到团地委工作"
+    },
+    {
+      "id": "T35",
+      "source": "E03",
+      "target": "E09",
+      "head": "田润叶",
+      "tail": "李向前",
+      "relation": "RETURN_TO",
+      "section": "第二部概要",
+      "evidence": "润叶感到内疚回到丈夫身边"
+    },
+    {
+      "id": "T36",
+      "source": "E05",
+      "target": "E08",
+      "head": "田福堂",
+      "tail": "田润生",
+      "relation": "FATHER_OF",
+      "section": "第二部概要",
+      "evidence": "她的弟弟润生也已长大成人"
+    },
+    {
+      "id": "T37",
+      "source": "E08",
+      "target": "E03",
+      "head": "田润生",
+      "tail": "田润叶",
+      "relation": "SIBLING",
+      "section": "第二部概要",
+      "evidence": "她的弟弟润生"
+    },
+    {
+      "id": "T38",
+      "source": "E08",
+      "target": "E06",
+      "head": "田润生",
+      "tail": "郝红梅",
+      "relation": "SPOUSE",
+      "section": "第二部概要",
+      "evidence": "终于两人结为夫妻"
+    },
+    {
+      "id": "T39",
+      "source": "E08",
+      "target": "E06",
+      "head": "田润生",
+      "tail": "郝红梅",
+      "relation": "MEET",
+      "section": "第二部概要",
+      "evidence": "在异乡与命运坎坷的郝红梅邂逅"
+    },
+    {
+      "id": "T40",
+      "source": "E01",
+      "target": "E04",
+      "head": "孙少平",
+      "tail": "田晓霞",
+      "relation": "LOVER",
+      "section": "第三部",
+      "evidence": "孙少平与田晓霞产生强烈感情"
+    },
+    {
+      "id": "T41",
+      "source": "E04",
+      "target": "E41",
+      "head": "田晓霞",
+      "tail": "抗洪采访",
+      "relation": "DIE_IN",
+      "section": "第三部",
+      "evidence": "因在抗洪采访中为抢救灾民光荣牺牲"
+    },
+    {
+      "id": "T42",
+      "source": "E10",
+      "target": "E01",
+      "head": "田福军",
+      "tail": "孙少平",
+      "relation": "INFORM",
+      "section": "第三部",
+      "evidence": "田福军给孙少平发了封电报"
+    },
+    {
+      "id": "T43",
+      "source": "E01",
+      "target": "E04",
+      "head": "孙少平",
+      "tail": "田晓霞",
+      "relation": "GRIEVE",
+      "section": "第三部",
+      "evidence": "少平悲痛不已"
+    },
+    {
+      "id": "T44",
+      "source": "E02",
+      "target": "E40",
+      "head": "孙少安",
+      "tail": "扩建机器制砖",
+      "relation": "PARTICIPATE_IN",
+      "section": "第三部",
+      "evidence": "决定贷款扩建机器制砖"
+    },
+    {
+      "id": "T45",
+      "source": "E15",
+      "target": "E02",
+      "head": "县长",
+      "tail": "孙少安",
+      "relation": "HELP",
+      "section": "第三部",
+      "evidence": "在朋友和县长的帮助下再度奋起"
+    },
+    {
+      "id": "T46",
+      "source": "E07",
+      "target": "E49",
+      "head": "贺秀莲",
+      "tail": "肺癌",
+      "relation": "DIAGNOSE_WITH",
+      "section": "第三部",
+      "evidence": "口吐鲜血，确诊肺癌"
+    },
+    {
+      "id": "T47",
+      "source": "E02",
+      "target": "E30",
+      "head": "孙少安",
+      "tail": "小学",
+      "relation": "FUNDS",
+      "section": "第三部",
+      "evidence": "由他家出资一万五千元扩建的小学"
+    },
+    {
+      "id": "T48",
+      "source": "E07",
+      "target": "E43",
+      "head": "贺秀莲",
+      "tail": "出资扩建小学",
+      "relation": "ATTEND",
+      "section": "第三部",
+      "evidence": "在欢庆……小学上口吐鲜血"
+    },
+    {
+      "id": "T49",
+      "source": "E05",
+      "target": "E06",
+      "head": "田福堂",
+      "tail": "郝红梅",
+      "relation": "RECOGNIZE",
+      "section": "第三部",
+      "evidence": "润生和郝红梅的婚事终于得到了父母的承认"
+    },
+    {
+      "id": "T50",
+      "source": "E01",
+      "target": "E42",
+      "head": "孙少平",
+      "tail": "煤矿事故",
+      "relation": "INJURED_IN",
+      "section": "第三部",
+      "evidence": "在一次事故中为救护徒弟也受了重伤"
+    },
+    {
+      "id": "T51",
+      "source": "E14",
+      "target": "E01",
+      "head": "金波之妹",
+      "tail": "孙少平",
+      "relation": "PROPOSE",
+      "section": "第三部",
+      "evidence": "遇少时玩伴金波之妹表白"
+    },
+    {
+      "id": "T52",
+      "source": "E01",
+      "target": "E14",
+      "head": "孙少平",
+      "tail": "金波之妹",
+      "relation": "REJECT",
+      "section": "第三部",
+      "evidence": "为她的前途与自己的感情选择拒绝"
+    },
+    {
+      "id": "T53",
+      "source": "E01",
+      "target": "E22",
+      "head": "孙少平",
+      "tail": "煤矿",
+      "relation": "RETURN_TO",
+      "section": "第三部",
+      "evidence": "又充满信心地回到了矿山"
+    }
+  ],
+  "stats": {
+    "node_count": 49,
+    "edge_count": 53,
+    "node_types": {
+      "PERSON": 15,
+      "LOCATION": 7,
+      "ORGANIZATION": 8,
+      "TIME": 5,
+      "EVENT": 8,
+      "CONCEPT": 6
+    },
+    "relation_counts": {
+      "STUDY_AT": 1,
+      "CLASSMATE": 2,
+      "LOVER": 5,
+      "REVEAL": 1,
+      "FRIEND": 1,
+      "FATHER_OF": 3,
+      "HELP": 2,
+      "SIBLING": 2,
+      "WORK_AT": 4,
+      "OPPOSE": 3,
+      "SPOUSE": 3,
+      "FROM": 1,
+      "INTRODUCE": 1,
+      "ORGANIZE": 3,
+      "MOTIVATE": 1,
+      "LOCATED_AT": 1,
+      "LEAD": 1,
+      "PARTICIPATE_IN": 3,
+      "ACHIEVE": 1,
+      "PROMISE": 1,
+      "RETURN_TO": 2,
+      "MEET": 1,
+      "DIE_IN": 1,
+      "INFORM": 1,
+      "GRIEVE": 1,
+      "DIAGNOSE_WITH": 1,
+      "FUNDS": 1,
+      "ATTEND": 1,
+      "RECOGNIZE": 1,
+      "INJURED_IN": 1,
+      "PROPOSE": 1,
+      "REJECT": 1
+    },
+    "sections": {
+      "第一部": 24,
+      "第二部概要": 15,
+      "第三部": 14
+    }
+  }
+}

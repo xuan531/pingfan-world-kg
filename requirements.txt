@@ -1,0 +1,12 @@
+# 基础流水线（仅需标准库，无第三方依赖）
+#   python src/pipeline.py
+
+# 可选：实体抽取 / 关系抽取 / 图数据库
+torch>=2.0                  # BERT-CRF、BiLSTM-CRF
+transformers>=4.30          # bert-base-chinese
+spacy>=3.7                  # 关系抽取规则基线
+openai>=1.0                 # LLM API（OpenAI 兼容接口）
+neo4j>=5.0                  # Neo4j Python Driver
+
+# 中文 spaCy 模型（安装依赖后另执行）：
+#   python -m spacy download zh_core_web_sm
